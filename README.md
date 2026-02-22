@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **jwaustin/jwaustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about my experience!
 - 📫 How to reach me: You can find my other social media links on the left!
 - ⚡ Fun fact: I love hiking!
--->
